@@ -113,8 +113,8 @@ careconnect/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/careconnect.git
-cd careconnect
+git clone https://github.com/<your-username>/MediRemind.git
+cd MediRemind
 ```
 
 ### 2. Install frontend dependencies
